@@ -586,13 +586,13 @@ files = [
 
 [[package]]
 name = "govuk-bank-holidays"
-version = "0.13"
+version = "0.15"
 description = "Tool to load UK bank holidays from GOV.UK"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "govuk-bank-holidays-0.13.tar.gz", hash = "sha256:ffb6ac050701cb850fd2f08eb9c7c91753090f00525e69cebec4f869f6f0de41"},
-    {file = "govuk_bank_holidays-0.13-py3-none-any.whl", hash = "sha256:2b91901be492235c4160a64d56d4d1945f6ca7f11c1ea4277395981866c35bef"},
+    {file = "govuk_bank_holidays-0.15-py3-none-any.whl", hash = "sha256:67d5efa3456dbba7795126494adba6914bb5bf516d7ffbd6f52070ff9a8a31a8"},
+    {file = "govuk_bank_holidays-0.15.tar.gz", hash = "sha256:03f75fee40894995b6f1556bb2f9c9a1b2cfb7beb5bed87ac88955a865f76cd7"},
 ]
 
 [package.dependencies]
@@ -1754,4 +1754,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "44fd098f6075a70a1aca197c4d9405cd8f8ad6c4a5bb08ab85be07f26ce93ca7"
+content-hash = "2876eda1aa2884adfed128b8e0bd92688a9b5a80604123651ba0313b5f3949ae"
