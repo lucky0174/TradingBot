@@ -8,6 +8,8 @@ spin_interval = 3600
 # Enable paper trading
 paper_trading = false
 
+#Bot
+
 [logging]
 enable = true
 log_filepath = "{home}/.TradingBot/log/trading_bot_{timestamp}.log"
