@@ -8,7 +8,7 @@ spin_interval = 3600
 # Enable paper trading
 paper_trading = false
 
-#Bot15
+#Bot16
 
 [logging]
 enable = true
