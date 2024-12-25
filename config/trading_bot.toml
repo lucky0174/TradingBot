@@ -9,7 +9,7 @@ spin_interval = 3600
 paper_trading = false
 
 #Bot16
-#+co-dev with @Manabu573 24/12/25 _9
+#+co-dev with @Manabu573 24/12/25 _10
 
 [logging]
 enable = true
